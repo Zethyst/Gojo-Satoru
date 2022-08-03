@@ -15,13 +15,13 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '7bf8e8a2e570', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['8318876136']
+global.premium = ['8318876136']
+global.ownernomer = '8318876136'
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
